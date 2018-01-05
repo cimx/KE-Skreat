@@ -5,9 +5,9 @@ Project for the Knowledge Engineering cours
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universiteit van Amsterdam / Vrije Universiteit Amsterdam
 
 
-Carolina Inês Xavier (UvA)
+* Carolina Inês Xavier (UvA)
 
-Bonita van Veldhoven (UvA)
+* Bonita van Veldhoven (UvA)
 
 
 
