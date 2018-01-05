@@ -6,6 +6,7 @@ Project for the Knowledge Engineering cours
 
 
 Carolina Inês Xavier (UvA)
+
 Bonita van Veldhoven (UvA)
 
 
