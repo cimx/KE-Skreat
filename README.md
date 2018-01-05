@@ -1,6 +1,6 @@
 # KE-Skreat
 
-Project for the Knowledge Engineering cours
+Project for the Knowledge Engineering course
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universiteit van Amsterdam / Vrije Universiteit Amsterdam
 
