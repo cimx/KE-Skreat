@@ -2,7 +2,7 @@
 
 Project for the Knowledge Engineering cours
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Univversiteit van Amsterdam / Vrije Universiteit Amsterdam
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Universiteit van Amsterdam / Vrije Universiteit Amsterdam
 
 
 Carolina Inês Xavier (UvA)
