@@ -40,7 +40,7 @@ public class Skreat{
 		System.out.println("Base Series: " + getTreatment().getBaseSeries());
 		System.out.println();
 		System.out.println("Cleanser: " + getTreatment().getCleanser().getName());
-		System.out.println("Freshner: " + getTreatment().getFreshner().getName());
+		System.out.println("Freshener: " + getTreatment().getFreshner().getName());
 		if(getTreatment().getGel() != null){
 			System.out.println("Gel: " + getTreatment().getGel().getName());
 		}
