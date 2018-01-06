@@ -118,21 +118,6 @@ null
 0
 110
 55
-betagen collier cream
-both
-66days
-female
-0
-0
-true
-true
-2
-3
-true
-null
-30
-110
-78
 autnum winter season
 both
 explicit
