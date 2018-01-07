@@ -273,7 +273,7 @@ public class Skreat{
 			Cream strongest_cream = creams_list.get(0);
 			int highest_strength = creams_list.get(0).getStrength();
 			for(Cream c: creams_list){
-				if(c.getStrength() < highest_strength){
+				if(c.getStrength() > highest_strength){
 					strongest_cream = c;
 					highest_strength = c.getStrength();
 				}
