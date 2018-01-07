@@ -269,7 +269,7 @@ public class Skreat{
 	}
 
 	public Cream finalCreamChange(List<Cream> creams_list){
-		if( creams_list.size() > 1 && getCustomer().getMotivation() >= 2 && getCustomer().getBudget() >= 3){
+		if( getCustomer().getMotivation() >= 2 && getCustomer().getBudget() >= 3){
 			Cream strongest_cream = creams_list.get(0);
 			int highest_strength = creams_list.get(0).getStrength();
 			for(Cream c: creams_list){
