@@ -103,7 +103,7 @@ winter
 0
 110
 47
-bio cell cream
+bio cell cream synergie
 both
 synergie
 both
@@ -133,7 +133,7 @@ autumn AND winter
 37
 110
 53
-bio cell cream
+bio cell cream explicit
 both
 explicit
 both
@@ -142,7 +142,7 @@ both
 True
 True
 3
-2
+3
 true
 null
 37
