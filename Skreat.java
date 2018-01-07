@@ -666,7 +666,7 @@ public class Skreat{
 			_skin.setState(reader.nextInt());
 
 			System.out.println();
-			System.out.print("Treatment's season? (winter/spring/summmer/autumn) ");
+			System.out.print("Treatment's season? (winter/spring/summmer/autumn): ");
 			getTreatment().setSeason(reader.next());
 		} catch ( InputMismatchException e){	
 			System.out.println("Input not valid");
